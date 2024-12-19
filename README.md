@@ -6,4 +6,5 @@ yanıtların verien byte boyutana göre küçük ya da büyük olan yanıtların
 
 ### kullanılan teknojiler
 -java 22
+
 -maven
